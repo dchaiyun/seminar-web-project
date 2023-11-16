@@ -2530,7 +2530,7 @@ Schedule CSS
   padding-bottom: 90px;
 }
 
-.schedule-style-three .col-lg-6:nth-child(2) .single-schedule-item .schedule-date {
+.schedule-style-three .col-lg-20:nth-child(2) .single-schedule-item .schedule-date {
   background-color: #00acee;
 }
 
@@ -3459,8 +3459,8 @@ Page Title CSS
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 250px;
-  padding-bottom: 180px;
+  padding-top: 150px;
+  padding-bottom: 150px;
 }
 
 .page-title-area::before {
