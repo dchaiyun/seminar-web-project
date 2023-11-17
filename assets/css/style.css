@@ -49,10 +49,7 @@ body {
   margin: 0;
   font-size: 15px;
 }
-/* เเก้ไขstyleIndex 8 */
-.b.index8{
-  color:orange
-}
+
 a {
   display: block;
   -webkit-transition: 0.5s;
@@ -1901,6 +1898,7 @@ Speakers CSS
 /*Speakers-style-three*/
 .speakers-area-two {
   padding-bottom: 90px;
+  margin-top: 40px;
 }
 
 .single-speakers-box {
@@ -2711,6 +2709,7 @@ Schedule CSS
   background-color: transparent;
   -webkit-box-shadow: unset;
           box-shadow: unset;
+  margin-top: 50%;
 }
 
 .schedule-style-four .tabs {
@@ -5101,15 +5100,26 @@ Marketing Banner Area CSS
   font-weight: 500;
 }
 
+.marketing-banner-content h4{
+  color:#ffffff;
+  font-weight: 300;
+  font-size: 50px;
+}
+
 .marketing-banner-content h1 {
-  font-size: 100px;
+  font-size: 50px;
   margin-bottom: 15px;
   font-weight: 500;
   color: #ffffff;
 }
 
 .marketing-banner-content h1 b {
-  font-weight: bold;
+  font-weight: 500;
+  font-size: 50px;
+}
+/* เเก้ไขstyleIndex 8 */
+.b.index8{
+  color:orange
 }
 
 .marketing-banner-content p {
